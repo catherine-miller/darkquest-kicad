@@ -1,0 +1,17 @@
+"Source:","/Users/catherine/Downloads/kicad 8 pin/quad_sipm_resistor/quad_sipm.kicad_sch"
+"Date:","2023 June 12, Monday 10:21:58"
+"Tool:","Eeschema 7.0.5-0"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","24"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","DigiKey","MfgNo"
+"1","4","C1, C2, C3, C4","10nF 100V","Device:C_Small","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","","399-17911-1-ND",""
+"2","1","C5","100nF 25V","Device:C_Small","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~","","399-C1206C104F3GECAUTOCT-ND",""
+"3","4","D1, D2, D3, D4","D_Sipm_Quad","quad_sipm-rescue:D_Sipm_Quad-quad_sipm_symbols","quad_sipm:sipm_6x6_bga_SMD","","","","S14160-6050HS"
+"4","4","H1, H3, H4, H5","MountingHole","Mechanical:MountingHole","quad_sipm:MountingHole_6.4_pad","~","","",""
+"5","1","H2","MountingHole","Mechanical:MountingHole","quad_sipm:MountingHole_8.4mm_M8_Pad","~","","",""
+"6","5","J1, J2, J3, J4, J5","8-102202-4","Connector:Conn_01x03_Female","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","","A32559-ND",""
+"7","4","R1, R2, R3, R4","R","Device:R","Resistor_SMD:1206_VIS-L","~","","",""
+"8","1","U1","TMP36xS","Sensor_Temperature:TMP36xS","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf","","",""

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "quad_sipm_symbols")(type "Legacy")(uri "/home/hazen/work/dq-quad-sipm/kicad/lib/quad_sipm_symbols.lib")(options "")(descr ""))
+  (lib (name "quad_sipm-rescue")(type "Legacy")(uri "${KIPRJMOD}/quad_sipm-rescue.lib")(options "")(descr ""))
+)

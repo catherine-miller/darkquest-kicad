@@ -1,0 +1,6 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","C1, C2, C3, C4","4","10nF 100V","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",""
+"2","D1, D2, D3, D4","4","D_SiPM","Diode_THT:SiPM_throughhole",""
+"3","H1, H3, H4, H5","4","MountingHole","quad_sipm:MountingHole_6.4_pad",""
+"4","H2","1","MountingHole","quad_sipm:MountingHole_8.4mm_M8_Pad",""
+"5","J1, J2, J3, J4","4","8-102202-4","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",""
