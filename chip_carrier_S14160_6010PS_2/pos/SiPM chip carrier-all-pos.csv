@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x10_Socket","PinHeader_1x10_P2.54mm_Vertical",38.608000,-38.608000,180.000000,bottom
+"J2","Conn_01x10_Socket","PinHeader_1x10_P2.54mm_Vertical",61.468000,-38.608000,180.000000,bottom
+"D1","~","S14160_6010PS",50.106000,-50.052000,180.000000,top

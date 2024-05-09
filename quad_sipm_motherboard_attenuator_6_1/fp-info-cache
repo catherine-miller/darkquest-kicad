@@ -1,4 +1,4 @@
-21791860878615758
+21795274711044038
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52058,6 +52058,20 @@ S13360-6025PE_throughhole
 0
 6
 6
+Diode_SMD
+S14160-3010PS
+
+
+0
+2
+2
+Diode_SMD
+S14160_6010PS
+
+
+0
+5
+5
 Diode_SMD
 Vishay_SMPA
 Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf

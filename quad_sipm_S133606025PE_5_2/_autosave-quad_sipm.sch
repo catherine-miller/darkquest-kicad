@@ -1,5 +1,5 @@
 EESchema Schematic File Version 5
-EELAYER 36 0
+EELAYER 43 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -296,19 +296,7 @@ F 4 "A32559-ND" H 3300 2150 50  0001 C CNN "DigiKey"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x03_Female J?
-U 1 1 00000000
-P 5500 1950
-F 0 "J?" H 5650 2050 50  0000 C CNN
-F 1 "8-102202-4" H 5600 2200 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5500 1950 50  0001 C CNN
-F 3 "~" H 5500 1950 50  0001 C CNN
-F 4 "A32559-ND" H 5450 2300 50  0000 C CNN "DigiKey"
-	1    5500 1950
-	-1   0    0    -1  
-$EndComp
-$Comp
-L quad_sipm-rescue:D_Sipm_Quad-quad_sipm_symbols D1
+L quad_sipm_symbols:D_Sipm_Quad D1
 U 1 1 629A6BAF
 P 2500 1300
 F 0 "D1" V 2496 912 50  0000 R CNN
@@ -320,7 +308,7 @@ F 4 "S14160-6050HS" V 2100 1100 50  0000 C CNN "MfgNo"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L quad_sipm-rescue:D_Sipm_Quad-quad_sipm_symbols D2
+L quad_sipm_symbols:D_Sipm_Quad D2
 U 1 1 629A8647
 P 2500 2050
 F 0 "D2" V 2496 1662 50  0000 R CNN
@@ -332,7 +320,7 @@ F 4 "S14160-6050HS" H 2500 2050 50  0001 C CNN "MfgNo"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L quad_sipm-rescue:D_Sipm_Quad-quad_sipm_symbols D3
+L quad_sipm_symbols:D_Sipm_Quad D3
 U 1 1 629A37BE
 P 4250 1300
 F 0 "D3" V 4246 912 50  0000 R CNN
@@ -344,7 +332,7 @@ F 4 "S14160-6050HS" H 4250 1300 50  0001 C CNN "MfgNo"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L quad_sipm-rescue:D_Sipm_Quad-quad_sipm_symbols D4
+L quad_sipm_symbols:D_Sipm_Quad D4
 U 1 1 629A5528
 P 4250 2050
 F 0 "D4" V 4246 1662 50  0000 R CNN
