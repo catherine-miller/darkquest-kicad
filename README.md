@@ -7,4 +7,5 @@ As of June 2024, the revisions in use are
 
 SiPM motherboard with attenuator: 6.1
 SiPM motherboard, no attenuator: 6.2 (use a 0 ohm resistor on resistor pad or a solder blob)
+Chip carrier Rev 2.0
 
